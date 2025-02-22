@@ -8,6 +8,6 @@ Python automation script to change the ashish ke document and rename them as aba
 4. **Output:** The tool processes the file and saves the updated document (with the new file name) in the same folder.
 
 **Changes to make:**  
-Change the Python code as per your customisation
-Mine focuses on changing name from Ashish to Abaan and PRN from 122AX016 to 122AX002
-you can customise the Folder desitnations and shit idk.
+Change the Python code as per your customisation.
+Mine focuses on changing name from Ashish to Abaan and PRN from 122AX016 to 122AX002. 
+You can customise the Folder desitnations and shit idk.
